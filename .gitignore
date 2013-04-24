@@ -1,0 +1,9 @@
+# OS X file #
+#############
+.DS_Store
+
+# Zend Studio files #
+#####################
+.buildpath
+.project
+.settings*
